@@ -1,5 +1,5 @@
 <!--Banner-->
-![Ayushi Banner Image](./banner.jpg)
+![Ayushi Banner Image](./cover.jpg)
 
 <!--Night Owl image-->
 
