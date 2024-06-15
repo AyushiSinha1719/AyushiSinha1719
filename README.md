@@ -1,33 +1,30 @@
 <!--Banner-->
-![sushantkrsky Banner Image](./banner.jpg)
+![Ayushi Banner Image](./banner.jpg)
 
 <!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ sushant! 
+# <img src="https://slackmojis.com/emojis/5431-blob-yes/download" width="30"/> ɪ'ᴍ AYUSHI! 
 *CSE Major (Developer / Programmer)*
 <br />
 
 
 <!--Start Intro-->               
-<p align="left">I am a Frontend Developer and Machine Learning Enthusiast with a huge love for C++, Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">I am a FullStack Developer and Machine Learning Enthusiast with a huge love for C++, Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 
 
-- 🌐 I’m a passionate Frontend Web Developer from India.
-- 🔭 I’m currently working on Full Stack Web Development.
+- 🌐 I’m a passionate FullStack Web Developer from India.
+- 🔭 I’m currently working on Machine Learning.
 - 🌱 I’m currently learning all about DSA, Software Development, Frameworks and Databases.
 - 👯 I’m looking to collaborate on Project based on "AI/ML"
 - 💬 Ask me about What motivates you to work hard.
-- 📫 How to reach me sushantkrsky@gmail.com
-- 👨‍💻 All of my projects are available at [sushantkrsky.me](sushantkrsky.me)
+- 📫 How to reach me ayushi1720sinha@gmail.com
+- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/AyushiSinha1719)
 
 
 <!--Profile Count Badge-->
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=sushantkrsky&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=star" alt="sushantkrsky" style="padding-right:20px;" />
+<img src="https://komarev.com/ghpvc/?username=AyushiSinha1719&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=star" alt="Ayushi Sinha" style="padding-right:20px;" />
 </p>
 
 ---
@@ -114,16 +111,16 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/sushantkrsky">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=sushantkrsky&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        <a href="https://github.com/AyushiSinha1719">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushiSinha1719&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/sushantkrsky">
-          <img align="center" src="https://streak-stats.demolab.com?user=sushantkrsky&theme=nightowl" alt="Streak Stats" />
+        <a href="https://github.com/AyushiSinha1719">
+          <img align="center" src="https://streak-stats.demolab.com?user=AyushiSinha1719&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -132,16 +129,16 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/sushantkrsky/Chatbot-for-Healthcare-System-Project">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantkrsky&repo=Chatbot-for-Healthcare-System-Project&theme=nightowl&show_owner=true" alt="Chatbot-for-Healthcare-System-Project"/>
+        <a href="https://github.com/AyushiSinha1719/Chatbot-for-Healthcare-System-Project">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiSinha1719&repo=Chatbot-for-Healthcare-System-Project&theme=nightowl&show_owner=true" alt="Chatbot-for-Healthcare-System-Project"/>
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/sushantkrsky">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=sushantkrsky&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        <a href="https://github.com/AyushiSinha1719">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=AyushiSinha1719&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -152,7 +149,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sushantkrsky&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushiSinha1719&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
 ---
@@ -173,32 +170,18 @@
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
- <a href="https://www.linkedin.com/in/sushantkrsky/" target="_blank">
+ <a href="https://www.linkedin.com/in/ayushisinha1719/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
-<a href="mailto:sushantkrsky@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
+<a href="mailto:ayushi1720sinha@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=ayushi1720sinha@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/sushantkrsky" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://twitter.com/sushantkrsky" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
-</a>
 </div>
 <br/>
 
-<!--Buy me a coffee-->
-<div align="center">
-<a href="https://www.buymeacoffee.com/sushantkrsky" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
-</div>
 
-<div align="center">
-<a href="https://ko-fi.com/sushantkrsky" target="_blank"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png" alt="sushantkrsky" style="height: 35px !important; width: 200px !important;" ></a>
-</div>
 
 
 <!--Footer--> 
