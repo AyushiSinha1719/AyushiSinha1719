@@ -19,7 +19,7 @@
 - 👯 I’m looking to collaborate on Project based on "AI/ML"
 - 💬 Ask me about What motivates you to work hard.
 - 📫 How to reach me ayushi1720sinha@gmail.com
-- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/AyushiSinha1719)
+- 👨‍💻 All of my projects are available at [Portfolio](https://ayushisinha1719.github.io/)
 
 
 <!--Profile Count Badge-->
