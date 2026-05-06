@@ -1,191 +1,65 @@
-<!--Banner-->
-![Ayushi Banner Image](./cover.jpg)
-
-<!--Night Owl image-->
-
-<!--Header Name-->
-# <img src="https://slackmojis.com/emojis/5431-blob-yes/download" width="30"/> ɪ'ᴍ AYUSHI! 
-*CSE Major (Developer / Programmer)*
-<br />
-
-
-<!--Start Intro-->               
-<p align="left">I am a FullStack Developer and Machine Learning Enthusiast with a huge love for C++, Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
-
-
-- 🌐 I’m a passionate FullStack Web Developer from India.
-- 🔭 I’m currently working on Machine Learning.
-- 🌱 I’m currently learning all about DSA, Software Development, Frameworks and Databases.
-- 👯 I’m looking to collaborate on Project based on "AI/ML"
-- 💬 Ask me about What motivates you to work hard.
-- 📫 How to reach me ayushii.sinhaaa@gmail.com
-- 👨‍💻 All of my projects are available at [Portfolio](https://ayushisinha1719.github.io/)
-
-
-<!--Profile Count Badge-->
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=AyushiSinha1719&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=star" alt="Ayushi Sinha" style="padding-right:20px;" />
-</p>
-
----
-<br />
-
-
-
-## 💻Languages
-<p>
-    </a>
-
-  <a target="_blank">
-        <img alt="Cpp" src="https://img.shields.io/badge/C++-%2312100E.svg?&logo=cplusplus&style=for-the-badge&logoColor=00599C"/>
-    </a>
-
-  <a target="_blank">
-        <img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=blue"/>
-    </a>
-  <a target="_blank">
-        <img alt="Java" src="https://img.shields.io/badge/Java-%2312100E.svg?logo=java&logoColor=blue&style=for-the-badge"/>
-    </a>  
-  <a target="_blank">
-        <img alt="JS" src="https://img.shields.io/badge/Javascript-%2312100E.svg?logo=javascript&style=for-the-badge&logoColor=yellow"/>
-    </a>
- 
-  <a target="_blank">
-        <img alt="SQL" src="https://img.shields.io/badge/SQL-%2312100E.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-    </a>
-    
-</p>
-
-## 🤖Tools
-
-<p align="left"> 
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="original" width="40" height="40"/> </a>
-<a href="https://www.react.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>  
-
-
-## Technologies
-
-#### Data Science and ML
-
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-%2312100E.svg?&logo=TensorFlow&style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/-PyTorch-%2312100E.svg?&logo=PyTorch&style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-%2312100E.svg?style=for-the-badge&logo=NumPy&logoColor=0c6678)
-![OpenCV](https://img.shields.io/badge/OpenCV-%2312100E.svg?style=for-the-badge&logo=OpenCV&logoColor=5c7ce8)
-![Pandas](https://img.shields.io/badge/Pandas-%2312100E.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-#### Frameworks
-
-![Angular](https://img.shields.io/badge/-Angular-%2312100E.svg?&logo=Angular&style=for-the-badge&logoColor=E23237)
-![DotNet](https://img.shields.io/badge/.NET_Framework-%2312100E.svg?style=for-the-badge&logo=Dotnet&logoColor=512BD4)
-![React](https://img.shields.io/badge/React-%2312100E.svg?&logo=react&style=for-the-badge&logoColor=00599C)
-
-#### MLOps
-
-![Azure](https://img.shields.io/badge/Azure-%2312100E?style=for-the-badge&logo=azuredevops&logoColor=0078D7)
-![Docker](https://img.shields.io/badge/-Docker-%2312100E.svg?&logo=Docker&style=for-the-badge)
-![MLflow](https://img.shields.io/badge/MLflow-%2312100E?style=for-the-badge&logo=MLFlow)
-![DataVersionControl](https://img.shields.io/badge/DVC-%2312100E?style=for-the-badge&logo=DVC&logoColor=13ADC7)
-![FastAPI](https://img.shields.io/badge/FastAPI-%2312100E?style=for-the-badge&logo=FastAPI&logoColor=009688)
-
-#### Databases & Visualization
-
-![MySQL](https://img.shields.io/badge/MySQL-%2312100E?style=for-the-badge&logo=MySQL&logoColor=white)
-![Postgresql](https://img.shields.io/badge/postgresql-%2312100E?style=for-the-badge&logo=postgresql)
-![PowerBI](https://img.shields.io/badge/PowerBI-%2312100E?style=for-the-badge&logo=PowerBI)
-
----
-
-<!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/AyushiSinha1719">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushiSinha1719&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/AyushiSinha1719">
-          <img align="center" src="https://streak-stats.demolab.com?user=AyushiSinha1719&theme=nightowl" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/AyushiSinha1719/Chatbot-for-Healthcare-System-Project">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiSinha1719&repo=Chatbot-for-Healthcare-System-Project&theme=nightowl&show_owner=true" alt="Chatbot-for-Healthcare-System-Project"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/AyushiSinha1719">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=AyushiSinha1719&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-<br />
-
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushiSinha1719&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+  <h1>Hi there, I'm Ayushi Sinha! 👋</h1>
+  <h3>💻 Software Engineer at <b>MORGAN STANLEY</b></h3>
+  <p><i>Building scalable microservices, enterprise APIs, and cutting-edge GenAI agents.</i></p>
+  <a href="https://linkedin.com/in/ayushisinha1719" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://ayushisinha.in" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:ayushii.sinhaaa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
----
-
-<!--Dynamic Quote card updated everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Vince%20Lombardi&quote=Winners%20never%20quit%20and%20quitters%20never%20win.&theme=dark&bg_color=011627&author_color=ffeb95">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
-
-
-
-
-<!--Contact Section--> 
-
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center">
- <a href="https://www.linkedin.com/in/ayushisinha1719/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-  
-<a href="mailto:ayushi1720sinha@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=ayushi1720sinha@gmail.com mail style="margin-bottom: 5px;" />
-</a>
-
-</div>
 <br/>
 
+## 🚀 About Me
+I am a passionate **Software Engineer** specializing in distributed systems, cloud-native architectures, and AI-driven applications. My expertise lies in designing robust API Gateways, implementing full-stack observability, and bridging the gap between traditional enterprise systems and Generative AI. 
 
+- 🏦 Currently working as a **Software Engineer at Morgan Stanley**, where I design custom API Gateways, OAuth2/Kerberos security, and dynamic routing for enterprise microservices.
+- ☁️ **AWS Certified Cloud Practitioner**
+- 🤖 Passionate about building **AI Agents** and leveraging LLMs (LangChain, GPT) for automated data virtualization and NLP processing.
+- 📍 Based in **Bengaluru, India**
 
+---
 
-<!--Footer--> 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+## 🛠️ Tech Stack & Skills
 
+### **Backend & Architecture**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-0089D6?style=for-the-badge&logo=microservices&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005C84?style=for-the-badge&logo=open-api-initiative&logoColor=white)
+
+### **AI & Machine Learning**
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4B32C3?style=for-the-badge&logo=probot&logoColor=white)
+
+### **DevOps & Observability**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+
+### **Security & Auth**
+![OAuth2](https://img.shields.io/badge/OAuth2-3D3D3D?style=for-the-badge&logo=auth0&logoColor=white)
+![Kerberos](https://img.shields.io/badge/Kerberos-00599C?style=for-the-badge&logo=linux&logoColor=white)
+
+---
+
+## 💡 Featured Projects
+
+### 🔬 [Generative API WorkBench](https://github.com/AyushiSinha1719/Generative_API_Workbench)
+Designed an **Agentic AI solution** that translates conversational intent into discrete API executions through a centralized Data Virtualization layer. Reduced operational burden by automating complex multi-source data integration and real-time reporting using a specialized LLM Planner.
+
+### 🔎 [AI-Driven MNPI Detection System](https://github.com/AyushiSinha1719/MNPI_Agent)
+Engineered an AI-powered compliance platform for detecting **Material Non-Public Information (MNPI)**. Implemented chunk-level NLP processing, confidence scoring, real-time data redaction, and human-in-the-loop workflows to secure sensitive corporate communications.
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushiSinha1719&show_icons=true&theme=radium" alt="Ayushi's GitHub Stats" />
+</div>
