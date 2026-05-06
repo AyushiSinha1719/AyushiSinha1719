@@ -5,7 +5,7 @@
   <a href="https://linkedin.com/in/ayushisinha1719" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://ayushisinha.in" target="_blank">
+  <a href="https://ayushisinha1719.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:ayushii.sinhaaa@gmail.com">
@@ -57,9 +57,3 @@ Designed an **Agentic AI solution** that translates conversational intent into d
 
 ### 🔎 [AI-Driven MNPI Detection System](https://github.com/AyushiSinha1719/MNPI_Agent)
 Engineered an AI-powered compliance platform for detecting **Material Non-Public Information (MNPI)**. Implemented chunk-level NLP processing, confidence scoring, real-time data redaction, and human-in-the-loop workflows to secure sensitive corporate communications.
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushiSinha1719&show_icons=true&theme=radium" alt="Ayushi's GitHub Stats" />
-</div>
